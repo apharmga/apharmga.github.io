@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.anqua.akick",
+        "sha256_cert_fingerprints": ["E4:25:E5:79:5C:CC:BF:D5:6C:B6:12:7D:99:B1:95:FB:F4:10:83:41:A6:C4:8C:8B:85:0B:A5:CA:9F:A3:06:41"]
+      }
+    }]
