@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.anqua.akick",
-        "sha256_cert_fingerprints": ["E4:25:E5:79:5C:CC:BF:D5:6C:B6:12:7D:99:B1:95:FB:F4:10:83:41:A6:C4:8C:8B:85:0B:A5:CA:9F:A3:06:41"]
+        "sha256_cert_fingerprints": ["A2:DA:21:FA:F7:65:58:F5:97:78:8E:61:80:CC:CA:B9:EA:60:1A:65:80:D0:4E:44:02:DA:49:D3:3D:4E:0C:67"]
       }
     }]
