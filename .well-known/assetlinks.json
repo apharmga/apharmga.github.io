@@ -3,6 +3,11 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.anqua.akick",
-        "sha256_cert_fingerprints": ["A2:DA:21:FA:F7:65:58:F5:97:78:8E:61:80:CC:CA:B9:EA:60:1A:65:80:D0:4E:44:02:DA:49:D3:3D:4E:0C:67"]
+        "sha256_cert_fingerprints": [
+          "A2:DA:21:FA:F7:65:58:F5:97:78:8E:61:80:CC:CA:B9:EA:60:1A:65:80:D0:4E:44:02:DA:49:D3:3D:4E:0C:67",
+          "A0:F3:13:FD:CE:18:45:E3:CA:C5:E3:0F:EB:E0:9E:A5:81:12:F0:C6:29:D9:93:03:06:48:67:C9:B1:EF:2A:A4",
+          "9C:A4:4E:2D:3F:F2:79:9D:FA:F8:9C:D2:E3:65:69:60:77:58:1F:99:EF:39:A5:F0:89:24:C6:8F:39:93:06:94",
+          "EC:6B:E8:B9:EE:19:CC:28:D9:30:86:45:A5:C3:78:68:73:84:A1:A4:C2:CE:91:88:73:F3:FB:B3:E2:86:F1:D4"
+        ]
       }
     }]
